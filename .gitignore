@@ -194,4 +194,4 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-./zenzii
+/zenzii
